@@ -42,3 +42,51 @@ GitHub Actions  •  DevSecOps           •  Zero Trust
 - **Certified Forcepoint DLP Administrator**
 - **Certified Ethical Hacker (CEH)**
 ---
+---
+
+## 🧩 Core Competencies
+
+### Technical Skills
+
+- TCP/IP, DNS, DHCP, HTTP/HTTPS, SSL/TLS
+- VPN: IPsec, SSL VPN, site-to-site, and remote access
+- Routing, switching, NAC, and wireless networking
+- Check Point, FortiGate, and Palo Alto firewalls
+- Zscaler ZIA and ZPA for SASE/SSE
+- Zero Trust Architecture (ZTNA and CASB)
+- F5 BIG-IP LTM and ASM for WAF
+- Forcepoint DLP and web security
+- Microsoft Sentinel and Microsoft Entra ID
+
+### Cloud Security Operations
+
+- Azure networking and security
+- Azure Firewall and Application Gateway
+- ExpressRoute and site-to-site VPN
+- Hybrid cloud connectivity
+- Virtual networks, NSGs, and private endpoints
+- Cloud Security Posture Management (CSPM)
+- Security monitoring and threat detection
+
+### Network Operations
+
+- Routing and switching troubleshooting
+- NAT and traffic-flow analysis
+- RCA and incident management (P1/P2)
+- Network monitoring and performance optimization
+- Vulnerability management and security hardening
+- Change management using ServiceNow
+- Python and network automation
+
+---
+
+## 📚 Currently Learning
+
+- **Terraform for Azure:** reusable modules, remote state, workspaces, and secure Infrastructure as Code
+- **GitHub Actions:** CI/CD workflows for Terraform validation, security scanning, planning, and deployment
+- **Azure Cloud Automation:** repeatable deployment of networking and security resources
+- **Python Network Automation:** REST APIs, NETCONF, RESTCONF, Paramiko, and structured data handling
+- **DevSecOps:** policy as code, secrets management, pre-deployment checks, and continuous compliance
+- **AI for Cloud Operations:** practical use of AI and generative AI in automation, monitoring, and operational workflows
+
+---
