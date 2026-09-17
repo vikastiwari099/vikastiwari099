@@ -27,10 +27,14 @@
 
 ## 🎯 Current Focus
 
-```text
-Cloud Security  •  Network Automation  •  Infrastructure as Code
-Azure           •  Terraform           •  Python
-GitHub Actions  •  DevSecOps           •  Zero Trust
+🎯 Current Focus & Learning
+☁️ Azure Cloud Security & Networking
+🏗️ Terraform Infrastructure as Code
+🚀 GitHub Actions CI/CD for Terraform
+🤖 Python Network Automation
+🔐 DevSecOps & Zero Trust Architecture
+🧠 AI for Operations & Security Automation
+
 ```
 ## 🏅 Certifications
 
@@ -41,7 +45,6 @@ GitHub Actions  •  DevSecOps           •  Zero Trust
 - **Fortinet NSE 4: Network Security Professional**
 - **Certified Forcepoint DLP Administrator**
 - **Certified Ethical Hacker (CEH)**
----
 ---
 
 ## 🧩 Core Competencies
@@ -76,17 +79,6 @@ GitHub Actions  •  DevSecOps           •  Zero Trust
 - Network monitoring and performance optimization
 - Vulnerability management and security hardening
 - Change management using ServiceNow
-- Python and network automation
 
 ---
 
-## 📚 Currently Learning
-
-- **Terraform for Azure:** reusable modules, remote state, workspaces, and secure Infrastructure as Code
-- **GitHub Actions:** CI/CD workflows for Terraform validation, security scanning, planning, and deployment
-- **Azure Cloud Automation:** repeatable deployment of networking and security resources
-- **Python Network Automation:** REST APIs, NETCONF, RESTCONF, Paramiko, and structured data handling
-- **DevSecOps:** policy as code, secrets management, pre-deployment checks, and continuous compliance
-- **AI for Cloud Operations:** practical use of AI and generative AI in automation, monitoring, and operational workflows
-
----
