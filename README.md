@@ -32,5 +32,13 @@ Cloud Security  •  Network Automation  •  Infrastructure as Code
 Azure           •  Terraform           •  Python
 GitHub Actions  •  DevSecOps           •  Zero Trust
 ```
+## 🏅 Certifications
 
+- **Microsoft Certified: Azure Network Engineer Associate (AZ-700)**
+- **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
+- **Check Point Certified Security Administrator (CCSA)**
+- **Check Point Certified Security Expert (CCSE)**
+- **Fortinet NSE 4: Network Security Professional**
+- **Certified Forcepoint DLP Administrator**
+- **Certified Ethical Hacker (CEH)**
 ---
