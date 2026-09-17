@@ -27,58 +27,55 @@
 
 ## 🎯 Current Focus
 
-🎯 Current Focus & Learning
-☁️ Azure Cloud Security & Networking
-🏗️ Terraform Infrastructure as Code
-🚀 GitHub Actions CI/CD for Terraform
-🤖 Python Network Automation
-🔐 DevSecOps & Zero Trust Architecture
-🧠 AI for Operations & Security Automation
+- ☁️ Cloud Security
+- 🏗️ Terraform Infrastructure as Code
+- 🚀 GitHub Actions CI/CD
+- 🤖 Python Network Automation
+- 🔐 DevSecOps & Zero Trust
+- 🧠 AI for Security & Cloud Operations
 
-```
+---
+
 ## 🏅 Certifications
 
-- **Microsoft Certified: Azure Network Engineer Associate (AZ-700)**
-- **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
-- **Check Point Certified Security Administrator (CCSA)**
-- **Check Point Certified Security Expert (CCSE)**
-- **Fortinet NSE 4: Network Security Professional**
-- **Certified Forcepoint DLP Administrator**
-- **Certified Ethical Hacker (CEH)**
+- Microsoft Certified: Azure Network Engineer Associate (AZ-700)
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+- Check Point Certified Security Administrator (CCSA)
+- Check Point Certified Security Expert (CCSE)
+- Fortinet NSE 4: Network Security Professional
+- Certified Forcepoint DLP Administrator
+- Certified Ethical Hacker (CEH)
+
 ---
 
 ## 🧩 Core Competencies
 
 ### Technical Skills
-
 - TCP/IP, DNS, DHCP, HTTP/HTTPS, SSL/TLS
-- VPN: IPsec, SSL VPN, site-to-site, and remote access
-- Routing, switching, NAC, and wireless networking
-- Check Point, FortiGate, and Palo Alto firewalls
-- Zscaler ZIA and ZPA for SASE/SSE
-- Zero Trust Architecture (ZTNA and CASB)
-- F5 BIG-IP LTM and ASM for WAF
-- Forcepoint DLP and web security
-- Microsoft Sentinel and Microsoft Entra ID
+- IPsec VPN, SSL VPN, Site-to-Site VPN
+- Routing, Switching, NAC & Wireless
+- Check Point, Fortinet, Palo Alto
+- Zscaler ZIA & ZPA (SASE/SSE)
+- Zero Trust, ZTNA, CASB
+- F5 BIG-IP LTM & ASM (WAF)
+- Forcepoint DLP & Web Security
+- Microsoft Sentinel & Entra ID
 
 ### Cloud Security Operations
-
-- Azure networking and security
-- Azure Firewall and Application Gateway
-- ExpressRoute and site-to-site VPN
-- Hybrid cloud connectivity
-- Virtual networks, NSGs, and private endpoints
+- Azure Networking & Security
+- Azure Firewall & Application Gateway
+- ExpressRoute & Site-to-Site VPN
+- Hybrid Cloud Connectivity
+- VNets, NSGs & Private Endpoints
 - Cloud Security Posture Management (CSPM)
-- Security monitoring and threat detection
+- Security Monitoring & Threat Detection
 
 ### Network Operations
-
-- Routing and switching troubleshooting
-- NAT and traffic-flow analysis
-- RCA and incident management (P1/P2)
-- Network monitoring and performance optimization
-- Vulnerability management and security hardening
-- Change management using ServiceNow
-
----
+- Routing & Switching Troubleshooting
+- NAT & Traffic Flow Analysis
+- RCA & Incident Management (P1/P2)
+- Network Monitoring & Optimization
+- Security Hardening & Vulnerability Management
+- Change Management (ServiceNow)
+- Python & Network Automation
 
